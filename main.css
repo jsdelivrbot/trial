@@ -33,7 +33,7 @@ display: none;
 #toggle {
 display: none;
 }
-@medai only screen and (max-width: 500px) {
+@medaia only screen and (max-width: 500px) {
 label {
 display: block;
 cursor: pointer;
@@ -51,12 +51,4 @@ margin: 0;
 #toggle:checked + .menu {
 display: block;
 }
-
-
-
-
-
-
-
-
 }
