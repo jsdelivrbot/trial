@@ -39,7 +39,7 @@ h1 {
     position: absolute;
     bottom: 0;
     left: 50%;
-    transform: translateY(-50%);
+    transform: translateX(-50%);
 }
 .btn_one:hover {
     opacity: 0.8;
