@@ -13,10 +13,7 @@ html, body {
 .wrapper {
     height: 100vh;
     width: 100%;
-    background-image: url(../images/Bg.jpg);
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-color: #FF8C3A;
     text-align: center;
     
     
