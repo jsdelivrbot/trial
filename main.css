@@ -7,14 +7,16 @@ html, body {
     padding: 0;
     margin: 0;
     width: 100%;
-    background-color: orange;
     
 }
 
 .wrapper {
     height: 100vh;
     width: 100%;
-    background-color: orange;
+    background-image: url(http://i.imgur.com/uD3jsqI.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
     text-align: center;
     
     
@@ -23,10 +25,10 @@ html, body {
 h1 {
     margin: 0;
     padding: 7em 0 1em 0;
-    color: white;
+    color: #FF8807;
 }
 .btn_one {
-    color: white;
+    color: #FF6E27;
     text-decoration: none;
     font-size: 18px;
     background-color: #f7941d;
@@ -59,7 +61,7 @@ h1 {
     width: 0;
     position: fixed;
     z-index: 1;
-    background-color: rgba(34,65,93,0.9);
+    background-color: #E36E27;
     transition: 0.5s;
     display: block;
     overflow-x: hidden;
