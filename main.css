@@ -1,4 +1,4 @@
-/*Global Styles*/
+
 html {
     font-family: helvetica, serif;
     
@@ -35,6 +35,8 @@ h1 {
     padding: 1em 7em;
     border-radius: 5px;
     opacity: 1.0;
+    text-align: center;
+    bottom: 0
 }
 .btn_one:hover {
     opacity: 0.8;
@@ -53,8 +55,6 @@ h1 {
     opacity: 0.8;
 }
 
-
-/*Tutorial Code*/
 
 .nav {
     height: 100vh;
