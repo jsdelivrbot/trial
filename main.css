@@ -14,7 +14,7 @@ html, body {
     height: 100vh;
     width: 100%;
     background-image: url(http://i.imgur.com/uD3jsqI.png);
-    background-position: center;
+    background-position: bottom;
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
